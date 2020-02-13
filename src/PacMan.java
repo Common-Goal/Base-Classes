@@ -11,20 +11,4 @@ public class PacMan {
         this.locX = locX;
         this.locY = locY;
     }
-
-    public void setLocX(int x) {
-        locX = x;
-    }
-
-    public int getLocX() {
-        return locX;
-    }
-
-    public void setLocY(int y) {
-        locY = y;
-    }
-
-    public int getLocY() {
-        return locY;
-    }
 }
